@@ -9,5 +9,5 @@ data_attri.txt - vertex attribute data - geo-locations - data structure: vid \t 
 
 # compile and run
 complie with g++ and -O3
-run and input the values of 'k' 'r', such as 5 10 for k=5 and r=10km
+run and input the values of 'k' and 'r', such as 5 10 for k=5 and r=10km
 the program ouputs in result.txt
