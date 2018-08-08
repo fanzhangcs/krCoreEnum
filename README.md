@@ -19,6 +19,6 @@ run and input the values of 'k' and 'r', such as 5 10 for k=5 and r=10km
 the program ouputs in result.txt
 
 # Note
-If you have any question, please contact me at fanzhang.cs@gmail.com.
+If you have any question, please contact me by fanzhang.cs@gmail.com.
 
 If you used this code, please kindly cite the paper.
